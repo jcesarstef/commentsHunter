@@ -1,5 +1,5 @@
 # commentsHunter
-A simple Python script to hunt for HTML comments
+A simple Python script to hunt for HTML/JS/CSS comments
 
 # Usage
 ```
